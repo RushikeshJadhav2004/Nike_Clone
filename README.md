@@ -20,25 +20,16 @@ nikee/
 - Fully responsive layout using only HTML and CSS
 - Easily customizable
 
-## 🔧 How to Use
 
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/your-username/nikee.git
-   cd nikee
-   ```
-
-2. Open `index.html` in your browser:
-
-   ```bash
-   open index.html
-   # or just double-click the file in your file explorer
-   ```
+<br>
+<br>
 
 ## 🌐 Live Website
 
 Visit the live version here: [Live Website](https://rushikeshjadhav2004.github.io/Nike_Clone/)
+
+<br>
+<br>
 
 ## 📸 Preview
 
