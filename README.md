@@ -41,7 +41,7 @@ nikee/
 
 ## 🧑‍💻 Author
 
-- [Your Name](https://github.com/RushikeshJadhav2004)
+- [Rushikesh Jadhav](https://github.com/RushikeshJadhav2004)
 
 ## 📝 License
 
