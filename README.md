@@ -38,7 +38,7 @@ nikee/
 
 ## 🌐 Live Website
 
-Visit the live version here: [Nikee Live Website](https://your-username.github.io/nikee)
+Visit the live version here: [Live Website](https://rushikeshjadhav2004.github.io/Nike_Clone/)
 
 ## 📸 Preview
 
