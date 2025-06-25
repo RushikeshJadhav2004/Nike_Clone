@@ -2,6 +2,10 @@
 # Nikee Website
 
 This is a simple static website project named **Nikee**, created using HTML and CSS. It is styled to represent a branded landing page or homepage design.
+<br>
+<br>
+
+                        <a href="https://rushikeshjadhav2004.github.io/Barber-Design/"><strong>➥ Live Demo</strong></a> 
 
 ## 📁 Project Structure
 
