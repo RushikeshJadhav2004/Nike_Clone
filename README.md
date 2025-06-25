@@ -5,7 +5,6 @@ This is a simple static website project named **Nikee**, created using HTML and 
 <br>
 <br>
 
-
 ## 📁 Project Structure
 
 ```
@@ -37,10 +36,13 @@ nikee/
    # or just double-click the file in your file explorer
    ```
 
+## 🌐 Live Website
+
+Visit the live version here: [Nikee Live Website](https://your-username.github.io/nikee)
+
 ## 📸 Preview
 
 ![Screenshot 2025-06-25 222718](https://github.com/user-attachments/assets/ba377ab7-0b01-4574-b772-f496514cd065)
-
 
 ## 🧑‍💻 Author
 
